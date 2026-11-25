@@ -1,6 +1,6 @@
 # chargefrance
 
-Publishes **https://evchargefrance.com** (EV Charge France) on GitHub Pages.
+Publishes **https://fastchargefrance.com** (Fast Charge France) on GitHub Pages.
 
 This repo holds only `.github/workflows/deploy.yml`, a copy of
 [`sites/france/deploy.yml`](https://github.com/PartyTrix/madeira-chargers/blob/main/sites/france/deploy.yml)
